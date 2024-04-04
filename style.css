@@ -78,6 +78,9 @@ header{
     flex-flow: column;
     text-align: center;
 }
+header .navbarh a{
+    text-align: center;
+}
 header .user img{
     height: 20rem;
     width: 18rem;
